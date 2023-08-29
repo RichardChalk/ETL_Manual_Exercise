@@ -1,0 +1,6 @@
+ProductID	Category	Name		Description	Quantity	UnitCost
+99001		Gaming		PS5		Gaming Console	6		4999
+99041		Gaming		XBox		Gaming Console	4		4599
+99043		Gaming		MSI Laptop	Computer	11		14999
+99032		Gaming		Mouse		Gaming Mouse	36		699
+99012		Gaming		Keyboard	Gaming Keyboard	16		1099
